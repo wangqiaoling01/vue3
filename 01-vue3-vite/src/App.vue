@@ -1,11 +1,3 @@
-<!--
- * @Description: Description
- * @Version: 1.0
- * @Autor: WangQiaoLing
- * @Date: 2020-08-07 21:01:02
- * @LastEditors: WangQiaoLing
- * @LastEditTime: 2020-08-09 10:08:41
--->
 <template>
   <!-- <h1>{{title}}</h1>
   <input type="text"

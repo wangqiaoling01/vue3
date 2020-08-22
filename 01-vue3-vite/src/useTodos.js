@@ -1,11 +1,3 @@
-/*
- * @Description: Description
- * @Version: 1.0
- * @Autor: WangQiaoLing
- * @Date: 2020-08-08 10:33:21
- * @LastEditors: WangQiaoLing
- * @LastEditTime: 2020-08-08 10:39:05
- */
 import { reactive, computed, onMounted } from 'vue'
 /**
  * @description: 和 todo 相关的数据和方法逻辑都在这里
